@@ -5,4 +5,4 @@ Record my leetcode answers
 
 ID | Title | Solution | Language | Difficulty | Tips
 --| ----- | -------- | -------- | ---------- | ----
-1 | Two Sum |  | Swift | Easy | 
+1 | Two Sum | [Link](./MyLeetcodeNotes/1TwoSum.swift) | Swift | Easy | 
