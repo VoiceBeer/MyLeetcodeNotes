@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		877C22781FB41D7C006B983E /* 461HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877C22771FB41D7C006B983E /* 461HammingDistance.swift */; };
 		87A77B501FAAE481006E352C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A77B4F1FAAE481006E352C /* main.swift */; };
 		87A77B571FAAE4A4006E352C /* 1TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A77B561FAAE4A4006E352C /* 1TwoSum.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		877C22771FB41D7C006B983E /* 461HammingDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 461HammingDistance.swift; sourceTree = "<group>"; };
 		87A77B4C1FAAE481006E352C /* MyLeetcodeNotes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyLeetcodeNotes; sourceTree = BUILT_PRODUCTS_DIR; };
 		87A77B4F1FAAE481006E352C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		87A77B561FAAE4A4006E352C /* 1TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1TwoSum.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				87A77B4F1FAAE481006E352C /* main.swift */,
 				87A77B561FAAE4A4006E352C /* 1TwoSum.swift */,
+				877C22771FB41D7C006B983E /* 461HammingDistance.swift */,
 			);
 			path = MyLeetcodeNotes;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				87A77B571FAAE4A4006E352C /* 1TwoSum.swift in Sources */,
+				877C22781FB41D7C006B983E /* 461HammingDistance.swift in Sources */,
 				87A77B501FAAE481006E352C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
