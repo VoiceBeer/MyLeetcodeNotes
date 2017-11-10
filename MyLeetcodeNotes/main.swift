@@ -14,10 +14,12 @@ import Foundation
 //let test = Solution().twoSum(nums, target)
 //print(test)
 
-let num1 = 2
-let num2 = 5
+//let num1 = 2
+//let num2 = 5
+//
+//let test = Solution_461().hammingDistance(num1, num2)
+//print(test)
 
-let test = Solution_461().hammingDistance(num1, num2)
-print(test)
-
-
+let test = "UDLRR"
+let testSolution = Solution_657().judgeCircle(test)
+print(testSolution)
