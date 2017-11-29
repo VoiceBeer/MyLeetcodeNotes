@@ -8,18 +8,26 @@
 
 import Foundation
 
+/// 1
 //let nums = [3,2,4]
 //let target = 6
 //
 //let test = Solution().twoSum(nums, target)
 //print(test)
 
+/// 461
 //let num1 = 2
 //let num2 = 5
 //
 //let test = Solution_461().hammingDistance(num1, num2)
 //print(test)
 
-let test = "UDLRR"
-let testSolution = Solution_657().judgeCircle(test)
-print(testSolution)
+/// 657
+//let test = "UDLRR"
+//let testSolution = Solution_657().judgeCircle(test)
+//print(testSolution)
+
+/// 728
+//let testSolution = Solution_728().selfDividingNumbers(1, 22)
+//print(testSolution)
+
