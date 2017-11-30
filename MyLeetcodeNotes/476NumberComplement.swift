@@ -32,9 +32,9 @@ import Foundation
 class Solution_476 {
     func findComplement(_ num: Int) -> Int {
         var i = 1
-        repeat {
+        while i <= num {
             i = i<<1
-        }while i < num
+        }
         return (i-1) ^ num
     }
 }
