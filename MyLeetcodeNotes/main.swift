@@ -8,9 +8,4 @@
 
 import Foundation
 
-let test = Solution_557().reverseWordsA("Let's take LeetCode contest")
-print(test)
-
-//let temp = "Let's test"
-//print(temp[temp.startIndex..<temp.endIndex])
 

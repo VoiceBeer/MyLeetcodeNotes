@@ -13,3 +13,4 @@ Record my leetcode answers
 | 561  | Array Partition I                        | [Link](./MyLeetcodeNotes/561ArrayPartitionI.swift) | Swift    | Easy       | Swift.stride |
 | 476  | Number Complement                        | [Link](./MyLeetcodeNotes/476NumberComplement.swift) | Swift    | Easy       | xor, <<      |
 | 557  | Reverse Words in a String III               | [Link](./MyLeetcodeNotes/557ReverseWordsInAStringIII.swift) | Swift    | Easy      |       |
+| 500  | Keyboard Row              | [Link](./MyLeetcodeNotes/500KeyboardRow.swift) | Swift    | Easy      |   Set    |
