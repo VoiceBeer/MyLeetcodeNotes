@@ -59,3 +59,7 @@ class Solution_557 {
         return result
     }
 }
+
+//let test = Solution_557().reverseWordsA("Let's take LeetCode contest")
+//print(test)
+
