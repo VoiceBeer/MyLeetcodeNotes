@@ -14,3 +14,5 @@ Record my leetcode answers
 | 476  | Number Complement                        | [Link](./MyLeetcodeNotes/476NumberComplement.swift) | Swift    | Easy       | xor, <<      |
 | 557  | Reverse Words in a String III               | [Link](./MyLeetcodeNotes/557ReverseWordsInAStringIII.swift) | Swift    | Easy      |       |
 | 500  | Keyboard Row              | [Link](./MyLeetcodeNotes/500KeyboardRow.swift) | Swift    | Easy      |   Set    |
+| 344  | Reverse String              | [Link](./MyLeetcodeNotes/344ReverseString.swift) | Swift    | Easy      |       |
+| 682  | Baseball Game              | [Link](./MyLeetcodeNotes/682BaseballGame.swift) | Swift    | Easy      |   Heap    |
