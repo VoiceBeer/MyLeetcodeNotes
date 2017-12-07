@@ -16,3 +16,4 @@ Record my leetcode answers
 | 500  | Keyboard Row              | [Link](./MyLeetcodeNotes/500KeyboardRow.swift) | Swift    | Easy      |   Set    |
 | 344  | Reverse String              | [Link](./MyLeetcodeNotes/344ReverseString.swift) | Swift    | Easy      |       |
 | 682  | Baseball Game              | [Link](./MyLeetcodeNotes/682BaseballGame.swift) | Swift    | Easy      |   Heap    |
+| 412  | Fizz Buzz              | [Link](./MyLeetcodeNotes/412FizzBuzz.swift) | Swift    | Easy      |       |
