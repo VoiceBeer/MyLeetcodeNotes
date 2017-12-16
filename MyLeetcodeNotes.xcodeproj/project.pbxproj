@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8701624E1FDE0648003BD72C /* 575DistributeCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8701624D1FDE0648003BD72C /* 575DistributeCandies.swift */; };
 		8705695C1FCE802F0005A531 /* 617MergeTwoBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8705695B1FCE802F0005A531 /* 617MergeTwoBinaryTrees.swift */; };
 		8705695E1FCE8A350005A531 /* 561ArrayPartitionI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8705695D1FCE8A350005A531 /* 561ArrayPartitionI.swift */; };
 		870F08521FD4CE8700CBA694 /* 557ReverseWordsInAStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870F08511FD4CE8700CBA694 /* 557ReverseWordsInAStringIII.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8701624D1FDE0648003BD72C /* 575DistributeCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 575DistributeCandies.swift; sourceTree = "<group>"; };
 		8705695B1FCE802F0005A531 /* 617MergeTwoBinaryTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 617MergeTwoBinaryTrees.swift; sourceTree = "<group>"; };
 		8705695D1FCE8A350005A531 /* 561ArrayPartitionI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 561ArrayPartitionI.swift; sourceTree = "<group>"; };
 		870F08511FD4CE8700CBA694 /* 557ReverseWordsInAStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 557ReverseWordsInAStringIII.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				872D25BC1FD69C4500BBACE2 /* 344ReverseString.swift */,
 				872D25BE1FD6A05100BBACE2 /* 682BaseballGame.swift */,
 				87FB5FF01FD9339800BC2E21 /* 412FizzBuzz.swift */,
+				8701624D1FDE0648003BD72C /* 575DistributeCandies.swift */,
 			);
 			path = MyLeetcodeNotes;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				87FB5FF11FD9339800BC2E21 /* 412FizzBuzz.swift in Sources */,
 				8771478B1FB56DCA001FF790 /* 657JudgeRouteCircle.swift in Sources */,
 				872A11611FCE47C60089750C /* 728SelfDividingNumbers.swift in Sources */,
+				8701624E1FDE0648003BD72C /* 575DistributeCandies.swift in Sources */,
 				87A77B501FAAE481006E352C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
