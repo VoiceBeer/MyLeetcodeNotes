@@ -17,3 +17,4 @@ Record my leetcode answers
 | 344  | Reverse String              | [Link](./MyLeetcodeNotes/344ReverseString.swift) | Swift    | Easy      |       |
 | 682  | Baseball Game              | [Link](./MyLeetcodeNotes/682BaseballGame.swift) | Swift    | Easy      |   Heap    |
 | 412  | Fizz Buzz              | [Link](./MyLeetcodeNotes/412FizzBuzz.swift) | Swift    | Easy      |       |
+| 575  | Distribute Candies              | [Link](./MyLeetcodeNotes/575DistributeCandies.swift) | Swift    | Easy      |       |
