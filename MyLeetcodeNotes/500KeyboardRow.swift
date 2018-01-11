@@ -26,7 +26,7 @@ import Foundation
 /// 不会做，看了 Discuss 里的，发现可以用 Set，学到了。当集合元素顺序不重要时或者希望确保每个元素只出现一次时可以使用集合而不是数组。
 /// Use Set. You can use a set instead of an array when the order of items is not important, or when you need to ensure that an item only appears once.
 
-class Solution500 {
+class Solution_500 {
     func findWords(_ words: [String]) -> [String] {
         let line1 = ["q","w","e","r","t","y","u","i","o","p"]
         let line2 = ["a","s","d","f","g","h","j","k","l"]
@@ -46,5 +46,5 @@ class Solution500 {
 }
 
 //let test = ["Hello", "Alaska", "Dad", "Peace"]
-//print(Solution500().findWords(test))
+//print(Solution_500().findWords(test))
 

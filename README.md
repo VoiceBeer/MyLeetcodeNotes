@@ -18,3 +18,4 @@ Record my leetcode answers
 | 682  | Baseball Game              | [Link](./MyLeetcodeNotes/682BaseballGame.swift) | Swift    | Easy      |   Heap    |
 | 412  | Fizz Buzz              | [Link](./MyLeetcodeNotes/412FizzBuzz.swift) | Swift    | Easy      |       |
 | 575  | Distribute Candies              | [Link](./MyLeetcodeNotes/575DistributeCandies.swift) | Swift    | Easy      |       |
+| 760  | Find Anagram Mapping              | [Link](./MyLeetcodeNotes/760FindAnagramMapping.swift) | Swift    | Easy      |  Dictionary     |
