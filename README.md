@@ -1,5 +1,5 @@
 # MyLeetcodeNotes
-Record my leetcode answers
+Recording my leetcode answers
 
 ## Leetcode Answers
 
