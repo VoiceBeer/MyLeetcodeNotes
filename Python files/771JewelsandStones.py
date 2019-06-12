@@ -3,7 +3,7 @@
 @Author: voicebeer
 @Date: 2019-06-12 13:59:17
 @LastEditors: voicebeer
-@LastEditTime: 2019-06-12 15:09:22
+@LastEditTime: 2019-06-12 15:12:20
 '''
 
 '''
@@ -24,7 +24,7 @@ S and J will consist of letters and have length at most 50.
 The characters in J are distinct.
 '''
 
-# one loop; str.count
+# one loop; str.count; Use set() 
 
 class Solution(object):
     def numJewelsInStones(self, J, S):
@@ -33,7 +33,6 @@ class Solution(object):
         :type S: str
         :rtype: int
         """
-        J = set(J)
         count = 0
         for i in J:
             count += S.count(i)
