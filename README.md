@@ -18,7 +18,7 @@ Recording my leetcode answers
 | 682  | Baseball Game                                                | [Link](./MyLeetcodeNotes/682BaseballGame.swift)             | Swift    | Easy       |     Heap     |
 | 412  | Fizz Buzz                                                    | [Link](./MyLeetcodeNotes/412FizzBuzz.swift)                 | Swift    | Easy       |              |
 | 575  | Distribute Candies                                           | [Link](./MyLeetcodeNotes/575DistributeCandies.swift)        | Swift    | Easy       |              |
-| 760  | Find Anagram Mapping                                         | [Link](./MyLeetcodeNotes/760FindAnagramMapping.swift)       | Swift    | Easy       |  Dictionary  |
+| 760  | Find Anagram Mapping                                         | [Link](./MyLeetcodeNotes/760FindAnagramMappings.swift)       | Swift    | Easy       |  Dictionary  |
 | 136  | Single Number                                                | [Link](./MyLeetcodeNotes/136SingleNumber.swift)             | Swift    | Easy       |     XOR      |
 | 771  | Jewels and Stones                                            | [Link](./PythonFiles/771JewelsandStones.py)                 | Python   | Easy       | str.count()  |
 |      |                                                              |                                                             |          |            |              |
