@@ -20,5 +20,6 @@ Recording my leetcode answers
 | 575  | Distribute Candies                                           | [Link](./MyLeetcodeNotes/575DistributeCandies.swift)        | Swift    | Easy       |              |
 | 760  | Find Anagram Mapping                                         | [Link](./MyLeetcodeNotes/760FindAnagramMapping.swift)       | Swift    | Easy       |  Dictionary  |
 | 136  | Single Number                                                | [Link](./MyLeetcodeNotes/136SingleNumber.swift)             | Swift    | Easy       |     XOR      |
-| 771  | Jewels and Stones                                            | [Link](./Python\ files/771JewelsandStones.py)               | Python   | Easy       | str.count()  |
+| 771  | Jewels and Stones                                            | [Link](./PythonFiles/771JewelsandStones.py)                 | Python   | Easy       | str.count()  |
 |      |                                                              |                                                             |          |            |              |
+
